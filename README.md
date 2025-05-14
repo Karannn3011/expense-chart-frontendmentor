@@ -40,7 +40,7 @@ Mobile:
 
 ### Links
 
-- Live Site URL: [Here](https://karannnn3011.github.io/expense-chart-frontendmentor)
+- Live Site URL: [Here](https://karannn3011.github.io/expense-chart-frontendmentor)
 
 ## My process
 
